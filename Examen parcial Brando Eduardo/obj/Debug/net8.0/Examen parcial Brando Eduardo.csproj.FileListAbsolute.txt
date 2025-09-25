@@ -1,0 +1,14 @@
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\Examen parcial Brando Eduardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\Examen parcial Brando Eduardo.AssemblyInfoInputs.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\Examen parcial Brando Eduardo.AssemblyInfo.cs
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\Examen parcial Brando Eduardo.csproj.CoreCompileInputs.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\bin\Debug\net8.0\Examen parcial Brando Eduardo.exe
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\bin\Debug\net8.0\Examen parcial Brando Eduardo.deps.json
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\bin\Debug\net8.0\Examen parcial Brando Eduardo.runtimeconfig.json
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\bin\Debug\net8.0\Examen parcial Brando Eduardo.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\bin\Debug\net8.0\Examen parcial Brando Eduardo.pdb
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\Examen parcial Brando Eduardo.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\refint\Examen parcial Brando Eduardo.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\Examen parcial Brando Eduardo.pdb
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\Examen parcial Brando Eduardo.genruntimeconfig.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Examen parcial Brando Eduardo\Examen parcial Brando Eduardo\obj\Debug\net8.0\ref\Examen parcial Brando Eduardo.dll
